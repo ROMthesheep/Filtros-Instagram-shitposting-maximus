@@ -1,4 +1,5 @@
-# Filtros-Instagram-shitposting-maximus
+# Filtros Instagram shitposting maximus
+<hr>
 
 Filtros para la red social instagram desde lo mas profundo de mi tontuna.
 
