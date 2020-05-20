@@ -16,3 +16,10 @@ Filtros disponisbles y autorizados por IG:
 Filtros no admitidos por IG por gilipolleces:
 * [¿Qué sam valentin?](https://instagram.com/a/r/?effect_id=880977082355773) (No admitido por contener fotografias de rostros... really?)
 * [League game picker](https://instagram.com/a/r/?effect_id=993794327674575) (No admitido por mostrar la ilustracion d eun arma de fuego)
+<hr>
+
+# Estadisticas a fecha de 20/05/2020
+
+![](https://i.gyazo.com/667e0d6f5f29dc11a52db5d412fc1e01.png)
+
+![](https://i.gyazo.com/6421e9a873a13c4c9607e748fef02689.png)
