@@ -8,6 +8,7 @@ Filtros rechazados: 2<br>
 Filtros pendientes de aprobacion: 1<br>
 
 Filtros disponisbles y autorizados por IG:
+* [Paiaseando](https://www.instagram.com/ar/170422764402820/)
 * [Sad Uzumazi](https://instagram.com/a/r/?effect_id=263080608214218)
 * [Yellow text feat DNI](https://instagram.com/a/r/?effect_id=204530727467615)
 * [Ascian Masks](https://instagram.com/a/r/?effect_id=213915313356077)
