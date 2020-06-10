@@ -21,6 +21,6 @@ Filtros no admitidos por IG por gilipolleces:
 
 # Estadisticas a fecha de 20/05/2020
 
-![](https://i.gyazo.com/667e0d6f5f29dc11a52db5d412fc1e01.png)
+![](https://i.gyazo.com/cdc9df75badd724144f48363aecc84fa.png)
 
-![](https://i.gyazo.com/6421e9a873a13c4c9607e748fef02689.png)
+![](https://i.gyazo.com/3e06bd5edb9260eb2e14919c115f3a9f.png)
