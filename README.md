@@ -3,7 +3,7 @@
 
 Filtros para la red social instagram desde lo mas profundo de mi tontuna.
 
-Filtros totales: 7 <br>
+Filtros totales: 8 <br>
 Filtros rechazados: 2<br>
 Filtros pendientes de aprobacion: 1<br>
 
